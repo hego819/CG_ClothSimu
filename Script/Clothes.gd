@@ -20,6 +20,7 @@ var mode = [1, 1, 0, 0]
 var mode_ind = [0, 0, 0, 0]
 var mode_vec = [Vector3(5.0, 0.0, 5.0), Vector3(-5.0, 0.0, 5.0), Vector3(5.0, 0.0, -5.0), Vector3(-5.0, 0.0, -5.0)]
 
+//formula from: https://games103.games-cn.org/HW2/lab2.pdf
 func _ready():
 	mesh_arr.resize(Mesh.ARRAY_MAX)
 	
