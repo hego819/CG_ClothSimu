@@ -16,4 +16,6 @@ https://github.com/godotengine/godot/releases/tag/3.5-stable
 Click import and put all the files into the path  
 ![im](im.png)  
 
+### Reference
+https://games103.games-cn.org/HW2/lab2.pdf
 
